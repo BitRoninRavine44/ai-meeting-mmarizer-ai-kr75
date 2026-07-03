@@ -1,4 +1,4 @@
-# 
+# Custom AI Meeting Notes Summarizer themes. Featuring AI-scalability and automated-decision-making — optimized for maximum performance.
 
 
 
